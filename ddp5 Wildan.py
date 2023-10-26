@@ -20,11 +20,11 @@ print("Roda Kendaraan  :", kendaraan[7])
 print()
 
 hitung = int(input("""pilih nomer dari pilihan yang tersedia
-==============================
+
 1. hitung luas persegi 
 2. hitung luas lingkaran 
 3. hitung luas segitiga 
-==============================
+
 """))
 
 
